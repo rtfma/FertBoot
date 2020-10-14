@@ -1,0 +1,110 @@
+rep	treatment	nrate	yield
+1	Clover 2017	0	7.19
+2	Clover 2017	0	8.58
+3	Clover 2017	0	8.06
+4	Clover 2017	0	9.3
+1	Clover 2018	0	7.34
+2	Clover 2018	0	5.71
+3	Clover 2018	0	8.03
+4	Clover 2018	0	4.44
+1	RC	0	4.86
+2	RC	0	4.56
+3	RC	0	6.61
+4	RC	0	4.66
+1	None	0	5.58
+2	None	0	4.99
+3	None	0	7.17
+4	None	0	3.69
+1	Rye + Corn	0	8.46
+2	Rye + Corn	0	6.57
+3	Rye + Corn	0	6.33
+1	Clover 2017	40	11.08
+2	Clover 2017	40	10.13
+3	Clover 2017	40	10.65
+4	Clover 2017	40	9.75
+1	Clover	40	7.76
+2	Clover	40	9.26
+3	Clover	40	10.35
+4	Clover	40	9.12
+1	None	40	8.53
+2	None	40	8.5
+3	None	40	9.5
+4	None	40	9.62
+1	Clover 2017	80	9.97
+2	Clover 2017	80	10.46
+3	Clover 2017	80	9.96
+4	Clover 2017	80	10.7
+1	RC	80	9.11
+2	RC	80	11.06
+3	RC	80	9.62
+4	RC	80	9.89
+1	None	80	10.31
+2	None	80	11.87
+3	None	80	9.03
+4	None	80	9.97
+1	Clover 2017	120	10.85
+2	Clover 2017	120	10.37
+3	Clover 2017	120	11.56
+4	Clover 2017	120	9.97
+1	RC	120	8.34
+2	RC	120	10.64
+3	RC	120	7.81
+4	RC	120	8.6
+1	None	120	10.95
+2	None	120	11.32
+3	None	120	6.78
+4	None	120	11.63
+1	Clover 2017	160	11.4
+2	Clover 2017	160	12.11
+3	Clover 2017	160	11.05
+4	Clover 2017	160	10.5
+1	RC	160	6.66
+2	RC	160	11.18
+3	RC	160	9.72
+4	RC	160	10.46
+1	None	160	11.19
+2	None	160	11.15
+3	None	160	8.27
+4	None	160	9.61
+1	Clover 2018	190	10.25
+2	Clover 2018	190	10.63
+3	Clover 2018	190	8.75
+4	Clover 2018	190	10.53
+1	Rye + Corn	190	11.39
+2	Rye + Corn	190	11.26
+3	Rye + Corn	190	10.74
+1	Clover 2017	200	10.22
+2	Clover 2017	200	9.98
+3	Clover 2017	200	11.29
+4	Clover 2017	200	10.84
+1	RC	200	10.83
+2	RC	200	10.17
+3	RC	200	10.38
+4	RC	200	10.49
+1	None	200	10.56
+2	None	200	11.32
+3	None	200	10.54
+4	None	200	11.38
+1	Clover 2017	240	9.45
+2	Clover 2017	240	11.91
+4	Clover 2017	240	9.25
+1	RC	240	10.83
+2	RC	240	10.15
+3	RC	240	10.74
+4	RC	240	10.19
+1	None	240	11.34
+2	None	240	11.05
+3	None	240	9.62
+4	None	240	11.71
+1	Clover 2017	280	11.23
+2	Clover 2017	280	10.95
+3	Clover 2017	280	9.93
+4	Clover 2017	280	11.58
+1	RC	280	10.33
+2	RC	280	10.56
+3	RC	280	10.3
+4	RC	280	10.87
+1	None	280	11.45
+2	None	280	10.41
+3	None	280	8.7
+4	None	280	11.32
